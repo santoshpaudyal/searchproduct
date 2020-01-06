@@ -1,0 +1,5 @@
+db.sqlite3
+search_venv
+product/__pycache__
+product/migrations
+searchproduct/__pycache__
